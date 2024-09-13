@@ -14,6 +14,7 @@ I’ve recently started learning PyTorch and will be sharing:
 - 🤖 **Basic Neural Networks** I've implemented.
 - 📊 **Visualizations** of models and learning curves using Matplotlib.
 - 📝 **Detailed Explanations** of various concepts and models.
+- 📚 **Block about backpropagation** [A medium block that i wrote explaning backpropagation](https://medium.com/@navo2104/understanding-backpropagation-e0c65315d6e4)
 
 My goal is to not only practice PyTorch but also provide resources that might be helpful for others embarking on this exciting journey!
 
